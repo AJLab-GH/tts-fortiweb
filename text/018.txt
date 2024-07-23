@@ -1,0 +1,1 @@
+Next, this entry has neither special characters or numbers. This has been observed less frequently as the patterns that emerged in the previous entries, but the likelyhood of a character following a character is high, and so, even though it scores higher, it's still not considered anomalous.

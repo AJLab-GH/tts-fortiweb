@@ -1,0 +1,1 @@
+This is accomplished using the Hidden Markov Model, which is a model that describes valid character sequences. We'll dive into how this works shortly, but not before explaining the second layer of machine learning!
