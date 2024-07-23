@@ -1,9 +1,9 @@
 {
   "image": "docker.io/robinmordasiewicz/devcontainer:latest",
   "initializeCommand": "docker pull docker.io/robinmordasiewicz/devcontainer:latest",
-  "name": "azure_speech_service",
+  "name": "tts_fortiweb",
   "runArgs": [
-    "--name=azure_speech_service",
-    "--hostname=azure_speech_service"
+    "--name=tts_fortiweb",
+    "--hostname=tts_fortiweb"
       ]
 }
