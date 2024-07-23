@@ -1,0 +1,1 @@
+In this example, our user-Mark enters his first and last name into the given field. This traffic is not anomalous. His colleague, Janette however entered her name with a typo. Though her entry deviated from the norm, it did not exceed the probability threshold, so her traffic was allowed.

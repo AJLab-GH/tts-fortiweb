@@ -1,0 +1,1 @@
+Once we've observed the fields intended use, we create a score based on the character sequence of the input. In this case, our example field deals with email addresses.

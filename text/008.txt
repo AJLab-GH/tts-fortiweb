@@ -1,0 +1,1 @@
+The first layer of machine learning observes application traffic. It monitors access to the application and collects data to build a mathematical model for every parameter and HTTP method. Think of this as sorting normal traffic patterns from anomalous traffic patterns. It does so by clustering patterns it recognizes separate from patterns it doesn't.

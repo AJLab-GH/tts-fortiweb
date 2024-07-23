@@ -1,0 +1,1 @@
+based on the observed sequence of character, special character, number, special character and so fourth, we've determined that this input scores low, and does not bridge the threshold where this input is considered anomalous.

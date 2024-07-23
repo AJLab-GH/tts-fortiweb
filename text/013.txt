@@ -1,0 +1,1 @@
+In summary, the FortiWeb observes your traffic. Based on that, it calculates the statistical probability of character sequences. Any input that deviates too much from conventional uses would be flagged as an anomaly and assessed against the trained threat models from Fortiguard labs. Anything malicious gets blocked, while benign or normal traffic is allowed.

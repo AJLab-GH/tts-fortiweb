@@ -1,0 +1,1 @@
+Since Machine Learning is at the heart of the FortiWeb’s advanced security capabilities, Understanding how it functions can give us deeper insights into its effectiveness in protecting web applications and APIs. Let's dive in!

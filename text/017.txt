@@ -1,0 +1,1 @@
+This second entry also receives a low score. It does not have any numbers, but the character sequence within is highly probable based on our observed patterns. It is also not flagged as anomalous.

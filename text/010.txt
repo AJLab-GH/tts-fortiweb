@@ -1,0 +1,1 @@
+Normal application traffic completely bypasses the second layer, but when the first layer observes anomolous traffic patterns, it's assessed against pre-built trained threat models from FortiGuard Labs. These models are trained against countless samples to ensure a high degree of accuracy for classification.

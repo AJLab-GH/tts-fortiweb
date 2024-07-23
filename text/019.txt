@@ -1,0 +1,1 @@
+This last entry exceeds the mathematical threshhold we've built for this field. It is incredibly improbable for our input to begin with a special character, especially in relationship to the remainder of the character sequence. For that reason, the traffic is passed to the second layer of machine learning, where it will surely be blocked!
