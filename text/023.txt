@@ -1,0 +1,1 @@
+To illustrate the power and complexity of machine learning, let's consider a practical example: predicting housing prices.

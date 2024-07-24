@@ -1,0 +1,1 @@
+Now, let's shift this analogy to FortiWeb. Just as housing prices cannot be accurately predicted by considering only a couple of factors, web application security cannot be effectively managed by looking at a few dimensions. FortiWeb excels because it can block multi-vector attacks, working across multiple dimensions.

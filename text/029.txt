@@ -1,0 +1,1 @@
+In this example, we can see that FortiWeb Bot Detection observes user behaviour across thirteen different dimensions, with each being analyzed in relationship to one-another

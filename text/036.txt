@@ -1,0 +1,1 @@
+In summary, the power of AI-augmented security with FortiWeb provides our customers with unmatched protection for their web applications and APIs. By leveraging advanced machine learning, FortiWeb not only detects and mitigates known threats but also adapts to emerging ones, ensuring comprehensive and robust security.

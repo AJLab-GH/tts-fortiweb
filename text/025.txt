@@ -1,0 +1,1 @@
+Using existing data, you could not only see where these inputs fall, but you could predict the prices of new homes by simply inputting their size.
