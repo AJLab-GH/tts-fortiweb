@@ -1,0 +1,1 @@
+In doing so you can reduce the false positives you experience and allow for your legitimate bots and activities to proceed while blocking malicious actors. 

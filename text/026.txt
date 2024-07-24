@@ -1,0 +1,1 @@
+However, this approach is too simplistic for accurately predicting housing prices. There are many other factors that could influence the cost, such as the quality of the materials used, the walk score, school district ratings, proximity to hospitals, and other amenities. If we only consider price and square footage, our calculation might lead us astray.
