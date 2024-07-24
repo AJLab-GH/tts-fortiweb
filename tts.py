@@ -16,12 +16,12 @@ audio_folder_path.mkdir(parents=True, exist_ok=True)
 text_folder_path.mkdir(parents=True, exist_ok=True)
 
 # File paths
-FILENAME = "038"
+FILENAME = "001"
 speech_file_path = audio_folder_path / f"{FILENAME}.mp3"
 text_file_path = text_folder_path / f"{FILENAME}.txt"
 
 # Enter the text you want to convert to speech!
-TEXT_INPUT = '''Thank you for tuning in to our FortiWeb highlight! See you next-time!'''
+TEXT_INPUT = '''Hi and welcome to our FortiWeb highlight! In this highlight, we'll explore the FortiWeb's use cases, it's ML augmented capabilities, what form factors are available and how it stacks up against the competition!'''
 
 # Write text to file
 with open(text_file_path, 'w', encoding='utf-8') as text_file:
