@@ -16,12 +16,12 @@ audio_folder_path.mkdir(parents=True, exist_ok=True)
 text_folder_path.mkdir(parents=True, exist_ok=True)
 
 # File paths
-FILENAME = "006"
+FILENAME = "030"
 speech_file_path = audio_folder_path / f"{FILENAME}.mp3"
 text_file_path = text_folder_path / f"{FILENAME}.txt"
 
 # Enter the text you want to convert to speech!
-TEXT_INPUT = '''Lastly! we have the protection of Internet-facing APIs. APIs are the backbone of modern business-to-business communication and mobile applications. FortiWeb protects these APIs by leveraging machine learning to safeguard critical line-of-business capabilities. By doing so, it ensures that APIs remain secure from unauthorized access and abuse, facilitating secure and efficient business operations.'''
+TEXT_INPUT = '''A Bot's behaviour might vary greatly from that of a users. From the amount of TCP connections that are created, the volume of HTTP requests, or even the HTTP methods that are used.'''
 
 # Write text to file
 with open(text_file_path, 'w', encoding='utf-8') as text_file:
