@@ -1,1 +1,1 @@
-A Bot's behaviour might vary greatly from that of a users. From the amount of TCP connections that are created, the volume of HTTP requests, the HTTP methods that are used. 
+A Bot's behaviour might vary greatly from that of a users. From the amount of TCP connections that are created, the volume of HTTP requests, or even the HTTP methods that are used.
